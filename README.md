@@ -1,3 +1,3 @@
 # BroadcastReceiver-Filter
 Abroster Engine
-Abroster is a reusable filtering engine we designed for Broadcast Receivers in Android applications, consisted of XML analysis, Java analysis and Risk detection. It is based on the semantic analysis to find keywords from both XML files and Java files, and will process a testing result to the risk detection. This engine will be fully introduced in next subsections.
+Abroster is a reusable filtering engine we designed for Broadcast Receivers in Android applications, consisted of XML analysis, Java analysis and Risk detection. It is based on the semantic analysis to find keywords from both XML files and Java files, and will process a testing result to the risk detection. 
